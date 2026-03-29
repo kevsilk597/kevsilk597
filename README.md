@@ -21,6 +21,18 @@ Senior Product Manager at Lombard working at the product-engineering boundary ac
 
 - **Cypher** - sports intelligence workflow product focused on real-time signal quality and decision-speed UX.
 
+## Featured repositories
+
+- [`bitcoin-connect-sdk-demo`](https://github.com/kevsilk597/bitcoin-connect-sdk-demo) - interactive Lombard SDK demo for integration walkthroughs.
+- [`bitcoin-connect-demos`](https://github.com/kevsilk597/bitcoin-connect-demos) - collection of reusable SDK flow demos.
+- [`cipher`](https://github.com/kevsilk597/cipher) - real-time sports intelligence workflow project.
+- [`cipher-landing`](https://github.com/kevsilk597/cipher-landing) - product narrative and marketing site for Cypher.
+
+## Working style
+
+- Claims are evidence-based and tied to shipped artifacts.
+- Focus is on clear interfaces, reliable workflows, and practical iteration speed.
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kevsilk/)
