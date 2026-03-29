@@ -25,8 +25,8 @@ Senior Product Manager at Lombard working at the product-engineering boundary ac
 
 - [`bitcoin-connect-sdk-demo`](https://github.com/kevsilk597/bitcoin-connect-sdk-demo) - interactive Lombard SDK demo for integration walkthroughs.
 - [`bitcoin-connect-demos`](https://github.com/kevsilk597/bitcoin-connect-demos) - collection of reusable SDK flow demos.
-- [`cipher`](https://github.com/kevsilk597/cipher) - real-time sports intelligence workflow project.
-- [`cipher-landing`](https://github.com/kevsilk597/cipher-landing) - product narrative and marketing site for Cypher.
+- [`cypher`](https://github.com/kevsilk597/cypher) - real-time sports intelligence workflow project.
+- [`cypher-landing`](https://github.com/kevsilk597/cypher-landing) - product narrative and marketing site for Cypher.
 
 ## Working style
 
